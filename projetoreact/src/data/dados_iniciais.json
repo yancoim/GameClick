@@ -3,7 +3,7 @@
     
     {
       "titulo": "Games",
-      "cor": "#6411e9",
+      "cor": "#B30C0C",
       "videos": [
         {
           "titulo": "Valorant",
@@ -14,8 +14,8 @@
           "url": "https://youtu.be/h1Kp9x_ADZw"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Fable",
+          "url": "https://youtu.be/oVkSZXPklQ4"
         },
         {
           "titulo": "Ghost of Tsushima",
@@ -30,7 +30,7 @@
     },
     {  
       "titulo": "Esports",
-      "cor": "#6411e9",
+      "cor": "#27BBBD",
       "videos": [
         {
           "titulo": "Valorant Invitational",
@@ -51,86 +51,70 @@
       ]
     },
     {
-      "titulo": "Cursos Front End",
+      "titulo": "Playstation",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6411e9",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "cor": "#2524CC",
       "videos": [
       
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Ghost of Tsushima",
+          "url": "https://youtu.be/Zhn_yUkgRfI"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Cuphead",
+          "url": "https://youtu.be/bE6ZeClM6uI"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Marvel's Spider-Man: Miles Morales",
+          "url": "https://youtu.be/gHzuHo80U2M"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "God of War",
+          "url": "https://youtu.be/K0u_kAWLJOA"
         }        
       ]
     },
       {
-      "titulo": "Cursos Back End",
-      "cor": "#6411e9",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+      "titulo": "Xbox",
+      "cor": "#33BD2B",
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Fable",
+          "url": "https://youtu.be/oVkSZXPklQ4"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Halo Infinite",
+          "url": "https://youtu.be/-E-1BcILTPk"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "The Medium",
+          "url": "https://youtu.be/Yw2DGm280Pg"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Avowed",
+          "url": "https://youtu.be/W3QkO8fy3tg"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
+      "titulo": "Nintendo",
+      "cor": "#D40E0E",
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Animal Crossing: New Horizons",
+          "url": "https://youtu.be/InDJvcWtTCw"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "The Legend of Zelda: Breath of the Wild",
+          "url": "https://youtu.be/zw47_q9wbBE"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Super Mario Odyssey",
+          "url": "https://youtu.be/5kcdRBHM7kM"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Pokémon: Let’s Go, Pikachu! and Pokémon: Let’s Go, Eevee!",
+          "url": "https://youtu.be/7Wtfkl-g-VE"
         }
       ]
     }

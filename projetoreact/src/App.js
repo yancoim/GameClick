@@ -3,7 +3,7 @@ import Menu from './components/Menu';
 import DadosIniciais from './data/dados_iniciais.json';
 import BannerMain from './components/BannerMain';
 import Carousel from './components/Carousel';
-//import Footer from './components/Footer';
+import Footer from './components/Footer';
 
 
 
@@ -35,6 +35,11 @@ function App() {
       category={DadosIniciais.categorias[3]}
       />
 
+      <Carousel
+      category={DadosIniciais.categorias[4]}
+      />
+
+      <Footer/>
     </div>
   );
 }
